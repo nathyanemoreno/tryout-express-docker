@@ -1,8 +1,8 @@
-FROM node:alpine
+FROM node:14.5.3-alpine3.11
 
 COPY . . 
 
-CMD npm install
+RUN npm install
 
 EXPOSE 5686
 
