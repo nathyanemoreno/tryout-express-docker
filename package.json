@@ -1,0 +1,24 @@
+{
+  "name": "tryout-express-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathyanemoreno/tryout-express-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathyanemoreno/tryout-express-docker/issues"
+  },
+  "homepage": "https://github.com/nathyanemoreno/tryout-express-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.4"
+  }
+}
